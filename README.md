@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wisholli&repo=BlindTalk&cache_seconds=86400&theme=synthwave)](https://github.com/wisholli/BlindTalk)
+
+### It's Olha Sribna profile
+
+
+
+I'm a Frontend Developer who enjoys working with web technologies. I'm passionate about my work and love creating exciting projects.
+
+- 💻 Working with TypeScript, React, Next, Redux.
+
+- 👨‍💻 Developing PWA.
+  
+### Social Media
+
+- **Email osribna4@gmail.com**
+- **[LinkedIn](www.linkedin.com/in/olhasribna)**
